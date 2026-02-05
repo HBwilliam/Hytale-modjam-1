@@ -2,5 +2,5 @@
   "Group": "com.basil",
   "Name": "Basil's Machine",
   "Version": "1.0.0",
-  "Main": "com.basil.plugin.main"
+  "Main": "com.basil.machine.Main"
 }
